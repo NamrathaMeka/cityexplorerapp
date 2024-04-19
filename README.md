@@ -61,7 +61,7 @@ City Explorer is a mobile application built with React Native that helps users e
 ![Home Screen](Screenshots/home_screen.png)
 *Home Screen: Users can search for places based on their interests.*
 
-![Settings Screen](screenshots/settings_screen.png)
+![Settings Screen](Screenshots/settings.png)
 *Settings Screen: Access various app settings and preferences.*
 
 ![Entry Passes Screen](screenshots/entry_passes_screen.png)

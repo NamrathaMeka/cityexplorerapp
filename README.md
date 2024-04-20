@@ -82,7 +82,7 @@ City Explorer is a mobile application built with React Native that helps users e
 ![Push Notifications Screen](Screenshots/notifications.png)
 *Push Notifications Screen: Enable or disable push notifications for updates.*
 
-![Time Zones Screen](screenshots/time_zones_screen.png)
+![Time Zones Screen](Screenshots/timezones.png)
 *Time Zones Screen: Set preferred time zone for accurate time displays.*
 
 ![Login Credentials Screen](screenshots/login_credentials_screen.png)

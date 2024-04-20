@@ -88,7 +88,7 @@ City Explorer is a mobile application built with React Native that helps users e
 ![Login Credentials Screen](Screenshots/login_credentials.png)
 *Login Credentials Screen: Manage login credentials securely.*
 
-![Payment Information Screen](screenshots/payment_info_screen.png)
+![Payment Information Screen](Screenshots/payment_info.png)
 *Payment Information Screen: Manage payment methods and information.*
 
 ![Location Screen](screenshots/location_screen.png)

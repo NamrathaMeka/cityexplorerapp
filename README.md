@@ -64,7 +64,7 @@ City Explorer is a mobile application built with React Native that helps users e
 ![Settings Screen](Screenshots/settings.png)
 *Settings Screen: Access various app settings and preferences.*
 
-![Entry Passes Screen](screenshots/entry_passes_screen.png)
+![Entry Passes Screen](Screenshots/entry_passes_screen.png)
 *Entry Passes Screen: Purchase entry passes for exclusive attractions.*
 
 ![Events Near Me Screen](Screenshots/events_near_me.png)

@@ -91,7 +91,7 @@ City Explorer is a mobile application built with React Native that helps users e
 ![Payment Information Screen](Screenshots/payment_info.png)
 *Payment Information Screen: Manage payment methods and information.*
 
-![Location Screen](screenshots/location_screen.png)
+![Location Screen](Screenshots/location.png)
 *Location Screen: Manage location settings for the app.*
 
 ## Demo Video

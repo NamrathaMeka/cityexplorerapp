@@ -70,7 +70,7 @@ City Explorer is a mobile application built with React Native that helps users e
 ![Events Near Me Screen](Screenshots/events_near_me.png)
 *Events Near Me Screen: Discover exciting events happening nearby.*
 
-![Feedback Screen](screenshots/feedback_screen.png)
+![Feedback Screen](Screenshots/feedback.png)
 *Feedback Screen: Provide feedback to help improve the app.*
 
 ![Contact Us Screen](screenshots/contact_us_screen.png)

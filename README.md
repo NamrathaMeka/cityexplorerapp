@@ -76,7 +76,7 @@ City Explorer is a mobile application built with React Native that helps users e
 ![Contact Us Screen](Screenshots/contact_us.png)
 *Contact Us Screen: Get in touch with support for assistance.*
 
-![Review Screen](screenshots/review_screen.png)
+![Review Screen](Screenshots/contact_us.png)
 *Review Screen: Leave a review for the app on the app store.*
 
 ![Push Notifications Screen](screenshots/push_notifications_screen.png)

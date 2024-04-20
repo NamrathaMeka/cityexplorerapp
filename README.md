@@ -79,7 +79,7 @@ City Explorer is a mobile application built with React Native that helps users e
 ![Review Screen](Screenshots/review.png)
 *Review Screen: Leave a review for the app on the app store.*
 
-![Push Notifications Screen](screenshots/push_notifications_screen.png)
+![Push Notifications Screen](Screenshots/notifications.png)
 *Push Notifications Screen: Enable or disable push notifications for updates.*
 
 ![Time Zones Screen](screenshots/time_zones_screen.png)

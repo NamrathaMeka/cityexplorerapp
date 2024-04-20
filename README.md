@@ -85,7 +85,7 @@ City Explorer is a mobile application built with React Native that helps users e
 ![Time Zones Screen](Screenshots/timezones.png)
 *Time Zones Screen: Set preferred time zone for accurate time displays.*
 
-![Login Credentials Screen](screenshots/login_credentials_screen.png)
+![Login Credentials Screen](Screenshots/login_credentials.png)
 *Login Credentials Screen: Manage login credentials securely.*
 
 ![Payment Information Screen](screenshots/payment_info_screen.png)

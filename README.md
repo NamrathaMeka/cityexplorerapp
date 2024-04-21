@@ -96,7 +96,7 @@ City Explorer is a mobile application built with React Native that helps users e
 
 ## Demo Video
 
-[![City Explorer Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![City Explorer Demo Video](https://drive.google.com/file/d/1rI-w0FG8S7SUqYapskCrN9k86u9w9uWz/view?usp=sharing)
 
 *Click the image above to watch the demo video.*
 
